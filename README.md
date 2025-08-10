@@ -4,7 +4,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/jaiiidiii?style=social)](https://github.com/jaiiidiii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/junaid-ahmed-4806a295/)
-[![Top Languages](https://img.shields.io/github/languages/top/jaiiidiii?logo=github)](https://github.com/jaiiidiii)
 [![Profile Views](https://komarev.com/ghpvc/?username=jaiiidiii)](https://github.com/jaiiidiii)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
