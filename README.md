@@ -1,9 +1,15 @@
 # 👋 Hi, I'm Junaid Ahmed Khan
 
-**Mobile App Developer | Engineering Manager | Tech Enthusiast**
+Flutter and mobile engineering lead, Karachi (UTC+5). 9+ years building
+mobile apps, most recently regulated fintech in production.
+
+**I help teams whose Mobile app has become slow, fragile, or hard to release.**
+- Flutter app audit: architecture, performance, security, tests, release process
+- Rescue and modernization: fix the findings without stopping feature work
+- Dedicated Mobile engineers, managed by me
 
 [![GitHub followers](https://img.shields.io/github/followers/jaiiidiii?style=social)](https://github.com/jaiiidiii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/junaid-ahmed-4806a295/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/junaid-ahmed-khan-4806a295/)
 [![Profile Views](https://komarev.com/ghpvc/?username=jaiiidiii)](https://github.com/jaiiidiii)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
